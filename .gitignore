@@ -1,0 +1,7 @@
+points.bin
+snapshots/
+pressure/
+__pycache__/
+.venv/
+*.pyc
+.vscode/
